@@ -1,9 +1,9 @@
 ![banner-frontend-developer](./banner-frontend-developer.gif)
 
-Hi, nice to see you here! 👋
+<p align="center">Hi, nice to see you here! 👋 <br/>
 My name is Jamie and I am a frontend developer 🖥️
 What I love the most about this is the challenge to solve issues 🧩 
-Hit me up if you are looking for a programmer to work with or for you 😏
+Hit me up if you are looking for a programmer to work with or for you 😏</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
